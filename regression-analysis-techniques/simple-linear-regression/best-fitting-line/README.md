@@ -1,4 +1,4 @@
-> Authour: 2024 Parsaloi Nakuoh
+> Author: 2024 Parsaloi Nakuoh
 
 ## Computing the **least-squares-prediction-line**
 
