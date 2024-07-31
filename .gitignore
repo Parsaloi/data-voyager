@@ -1,3 +1,6 @@
+# the clean.py script
+clean.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
