@@ -12,4 +12,23 @@ This `python3` application:
 
 * `plot_best_fitting_line` : plots the corresponding prediction-line saved in a `png` file
 
-> Requires `python3.7` or higher
+
+To run it requires:
+* `python3.8` or higher
+* `python-poetry` for dependency management
+
+```bash
+# install application dependencies
+poetry install
+
+# run it!
+poetry run best-fitting-line
+```
+
+
+> _Linux users may find a linux package for `poetry`  from their favourite Linux distribution_
+
+> _MacOS users can use `brew install poetry`
+
+> _Windows users can install an extension for poetry on their favourite IDEs such as vscode_
+
