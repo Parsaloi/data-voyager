@@ -1,0 +1,8 @@
+name = "ppmcc"
+uuid = "b0920459-b932-4b04-83ee-fb3fa13b1737"
+authors = ["parsaizme "]
+version = "0.1.0"
+
+[deps]
+PackageCompiler = "9b87118b-4619-50d2-8e1e-99f35a4d4d9d"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
